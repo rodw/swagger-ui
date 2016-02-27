@@ -1,3 +1,12 @@
+# about rodw/swagger-ui
+
+This is [Rod](https://github.com/rodw)'s fork of [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui).
+
+It is used to create pull-requests that feed into the main swagger-ui repository and for local customizations and variations.
+
+----
+
+
 # Swagger UI
 
 [![Build Status](https://travis-ci.org/swagger-api/swagger-ui.svg?branch=master)](https://travis-ci.org/swagger-api/swagger-ui)
